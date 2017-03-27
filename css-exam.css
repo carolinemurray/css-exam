@@ -27,3 +27,16 @@ a{
 p{
   margin-top: 0;
 }
+
+.first-story{
+  background-color: #d3d3d3;
+  padding: 7px;
+}
+
+.first-story h4{
+  font-size: 30px;
+}
+
+.first-story .byline{
+  font-size: 15px;
+}
