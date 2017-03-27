@@ -2,23 +2,26 @@
   box-sizing: border-box;
 }
 
+@media(min-width: 600px) {
+  .left-column{
+    width: 70%;
+    float: left;
+    padding-right: 15px;
+  }
+
+  .right-column{
+    width: 30%;
+    float: left;
+    padding: 5px;
+  }
+}
+
 .container{
   max-width: 800px;
   margin: 0 auto;
   background: white;
   padding: 10px;
   overflow: auto;
-}
-.left-column{
-  width: 70%;
-  float: left;
-  padding-right: 15px;
-}
-
-.right-column{
-  width: 30%;
-  float: left;
-  padding: 5px;
 }
 
 body{
