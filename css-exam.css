@@ -1,3 +1,4 @@
+
 h3{
   font-style: italic;
   margin-top: 0;
@@ -39,4 +40,10 @@ p{
 
 .first-story .byline{
   font-size: 15px;
+}
+
+.more{
+  border-bottom: 3px solid black;
+  padding-bottom: 3px;
+  margin-bottom: 3px;
 }
