@@ -6,3 +6,24 @@ h3{
 h1{
   margin-bottom: 0;
 }
+
+.byline{
+  font-size: 10px;
+  color: gray;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h4{
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+a{
+  color: #BF5700;
+}
+
+p{
+  margin-top: 0;
+}
